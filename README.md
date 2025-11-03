@@ -8,6 +8,8 @@ I am a beginner C# developer with basic knowledge of .NET, OOP and desktop/web a
 - WPF Framework
 - NET / .NET Core
 - ASP.NET Core (MVC & Web API)
+- Material Design
+- Pomelo / MySql
 ## 🗄️ Databases
 - MySql
 - PostgreSql
