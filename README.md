@@ -12,7 +12,6 @@ I am a beginner C# developer with basic knowledge of .NET, OOP and desktop/web a
 - Pomelo / MySql
 ## 🗄️ Databases
 - MySql
-- PostgreSql
 ## 🧪 Testing Tools
 - xUnit
 ## 🛠 Tools & Environments
