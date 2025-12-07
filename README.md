@@ -32,6 +32,3 @@ Reading and understanding documentation
 
 ## 🔗 Links
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](http://kapitan-moshonka.me)
-[My SteamDB Profile](https://steamdb.info/calculator/76561199220453620/?cc=eu)
-### Other
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=D1xer231&show_icons=true&theme=dark)
