@@ -31,8 +31,7 @@ Reading and understanding documentation
 - Familiar with semantic HTML and form controls
 ![Static Badge](https://img.shields.io/badge/HTML-orange)
 ![Static Badge](https://img.shields.io/badge/CSS-blue)
-
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=D1xer231&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 ## 🔗 Links
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](http://kapitan-moshonka.me)
-< br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=D1xer231&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+
